@@ -1,3 +1,4 @@
+#Cleaning wine table
 CREATE OR REPLACE TABLE `curious-mender-475710-a7.by_the_glass.attributes_enriched`  AS
 SELECT
   string_field_0 AS wine_name
